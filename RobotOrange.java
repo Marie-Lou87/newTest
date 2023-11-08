@@ -16,7 +16,7 @@ public class RobotOrange extends Robots {
     private Random random = new Random();
     
     public RobotOrange(int x, int y) {
-        super("ORANGE");
+        super("VIOLET");
         super.afficherRobot(x, y);
     }
     
